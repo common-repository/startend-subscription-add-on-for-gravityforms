@@ -1,0 +1,123 @@
+body.wp-admin div#ui-datepicker-div[style]{
+  z-index: 100000000 !important;
+}
+.wp-admin.toplevel_page_gf_edit_forms .ui-datepicker td a, .wp-admin .ui-datepicker td span{
+  width: 24px !important;
+  height: 24px !important;
+}
+
+.toplevel_page_gf_edit_forms .ui-datepicker-title {
+    line-height: 1.2 !important;
+    font-size: 17px;
+    margin: 5px 3px !important;
+    font-weight: 400 !important;
+}
+
+.toplevel_page_gf_edit_forms .ui-datepicker-header.ui-widget-header.ui-helper-clearfix.ui-corner-all {
+    background: #1B95CF;
+    color: #ffffff;
+    text-shadow: none !important;
+  
+}
+.wp-admin .ui-datepicker-unselectable.ui-state-disabled span.ui-state-default {
+    color: #333333 !important;
+}
+.wp-admin .ui-datepicker td a, .wp-admin .ui-datepicker td span {
+    width: 24px !important;
+    height: 24px !important;
+    background: #ffffff !important;
+    border: 0 !important;
+    box-shadow: none !important;
+    outline: none !important;
+    text-shadow: none !important;
+    line-height: 25px;
+    color: #2382C3 !important;
+}
+
+.toplevel_page_gf_edit_forms .ui-datepicker tbody tr {
+    border: none !important;
+}
+.toplevel_page_gf_edit_forms .ui-datepicker tbody td {
+    border: none !important;
+    box-shadow: none !important;
+    background: #ffffff !important;
+	    padding: 5px 0 !important;
+}
+
+
+.toplevel_page_gf_edit_forms a.ui-datepicker-prev.ui-corner-all {
+    background: #ffffff !important;
+    margin-top: -2px;
+	left: 2px !important;
+	top: 2px !important;
+	border: none !important;
+}
+.toplevel_page_gf_edit_forms a.ui-datepicker-prev.ui-datepicker-prev-hover.ui-state-hover.ui-corner-all {
+    background: #ffffff !important;
+}
+.toplevel_page_gf_edit_forms a.ui-datepicker-next.ui-corner-all {
+    background: #ffffff !important;
+    margin-top: -2px;
+	right: 2px !important;
+	top: 2px !important;
+	border: none !important;
+}
+.toplevel_page_gf_edit_forms a.ui-datepicker-next.ui-datepicker-next-hover.ui-state-hover.ui-corner-all {
+    background: #ffffff !important;
+}
+.wp-admin .ui-datepicker td a.ui-state-default.ui-state-active {
+    background: #2382C3 !important;
+    border-radius: 4px;
+    color: #ffffff !important;
+}
+
+.toplevel_page_gf_edit_forms a.ui-datepicker-next.ui-corner-all, .toplevel_page_gf_edit_forms a.ui-datepicker-prev.ui-datepicker-prev-hover.ui-state-hover.ui-corner-all, .toplevel_page_gf_edit_forms a.ui-datepicker-next.ui-datepicker-next-hover.ui-state-hover.ui-corner-all, .toplevel_page_gf_edit_forms a.ui-datepicker-prev.ui-corner-all {
+    background: none !important;
+}
+.toplevel_page_gf_edit_forms .ui-widget-header .ui-datepicker-prev .ui-icon {
+    background: none !important;
+    width: 0px;
+    height: 0px;
+    border-top: 8px solid transparent;
+    border-bottom: 8px solid transparent;
+    border-right: 8px solid #fff;
+	margin-top: 8px;
+	float: right;
+}
+.toplevel_page_gf_edit_forms .ui-widget-header .ui-datepicker-next .ui-icon {
+    background: none !important;
+    width: 0px;
+    height: 0px;
+    border-top: 8px solid transparent;
+    border-bottom: 8px solid transparent;
+    border-left: 8px solid #fff;
+	margin-top: 8px;
+}
+.toplevel_page_gf_edit_forms a.ui-datepicker-next.ui-corner-all, .toplevel_page_gf_edit_forms a.ui-datepicker-prev.ui-corner-all, .toplevel_page_gf_edit_forms a.ui-datepicker-next.ui-datepicker-next-hover.ui-state-hover.ui-corner-all, .toplevel_page_gf_edit_forms a.ui-datepicker-prev.ui-datepicker-next-hover.ui-state-hover.ui-corner-all {
+    background: none !important;
+}
+.toplevel_page_gf_edit_forms a.ui-datepicker-prev.ui-corner-all {
+    left: 8px !important;
+}
+.wp-admin.toplevel_page_gf_edit_forms [data-input_type='gse_date'] .field-choice-text{
+    background: url('images/calendar.png');
+    background-repeat: no-repeat;
+    background-position-x: 98%;
+    background-position-y: 6px;
+    background-color: #EEEEEE;
+}
+
+.wp-admin.toplevel_page_gf_edit_forms [data-input_type='gse_date'] .field-choice-value{
+    background: url('images/calendar.png');
+    background-repeat: no-repeat;
+    background-position-x: 98%;
+    background-position-y: 6px;
+    background-color: #EEEEEE;
+}
+.wp-admin.toplevel_page_gf_edit_forms .ui-datepicker:not(.gform-legacy-datepicker):not(.gform-theme-datepicker) .ui-datepicker-header .ui-datepicker-next:before, 
+.wp-admin.toplevel_page_gf_edit_forms .ui-datepicker:not(.gform-legacy-datepicker):not(.gform-theme-datepicker) .ui-datepicker-header .ui-datepicker-prev:before{
+	content: '' !important;
+}
+.toplevel_page_gf_edit_forms .ui-datepicker:not(.gform-legacy-datepicker):not(.gform-theme-datepicker) .ui-datepicker-header .ui-datepicker-next{
+	transform: none !important;
+}

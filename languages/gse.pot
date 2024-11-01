@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gse\n"
+"POT-Creation-Date: 2022-08-14 17:46+0530\n"
+"PO-Revision-Date: 2022-08-14 17:46+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-gse-addon.php:113
+msgid "Start/End Date Settings"
+msgstr ""
+
+#: includes/class-gse-addon.php:117 includes/class-gse-addon.php:429
+msgid "Field Type"
+msgstr ""
+
+#: includes/class-gse-addon.php:121 includes/class-gse-addon.php:133
+#: includes/class-gse-addon.php:142
+msgid "Select One"
+msgstr ""
+
+#: includes/class-gse-addon.php:122
+msgid "Start Date Only"
+msgstr ""
+
+#: includes/class-gse-addon.php:123
+msgid "End Date Only"
+msgstr ""
+
+#: includes/class-gse-addon.php:124
+msgid "Both"
+msgstr ""
+
+#: includes/class-gse-addon.php:129
+msgid "Ending Type"
+msgstr ""
+
+#: includes/class-gse-addon.php:134 includes/class-gse-addon.php:145
+msgid "Select Date(s)"
+msgstr ""
+
+#: includes/class-gse-addon.php:143
+msgid "After x Number of Payments"
+msgstr ""
+
+#: includes/class-gse-addon.php:144
+msgid "Term Limit"
+msgstr ""
+
+#: includes/class-gse-addon.php:223
+msgid " (Starts on "
+msgstr ""
+
+#: includes/class-gse-addon.php:245
+msgid "GF Start Date Settings"
+msgstr ""
+
+#: includes/class-gse-addon.php:256
+msgid "Enable Subscription Start date"
+msgstr ""
+
+#: includes/class-gse-addon.php:263
+msgid "Assign Date Field"
+msgstr ""
+
+#: includes/class-gse-addon.php:265
+msgid "GravityStripe Date Fields can be selected for the mapping."
+msgstr ""
+
+#: includes/class-gse-addon.php:287
+msgid "Subscription Start Date"
+msgstr ""
+
+#: includes/class-gse-addon.php:309
+msgid "GF End Date Settings"
+msgstr ""
+
+#: includes/class-gse-addon.php:322
+msgid "Enable Subscription End date"
+msgstr ""
+
+#: includes/class-gse-addon.php:332 includes/class-gse-addon.php:372
+msgid "Number of Payments"
+msgstr ""
+
+#: includes/class-gse-addon.php:339 includes/class-gse-addon.php:366
+msgid "Select Duration"
+msgstr ""
+
+#: includes/class-gse-addon.php:355
+msgid "End Date Type"
+msgstr ""
+
+#: includes/class-gse-addon.php:380
+msgid "Date Fields can be selected for the mapping."
+msgstr ""
+
+#: includes/class-gse-addon.php:405
+msgid "Subscription End Date"
+msgstr ""
+
+#: includes/class-gse-addon.php:433
+msgid "Drop Down"
+msgstr ""
+
+#: includes/class-gse-addon.php:434
+msgid "Radio Buttons"
+msgstr ""
+
+#: includes/class-gse-addon.php:910
+msgid "Untitled"
+msgstr ""
+
+#: includes/class-gse-field.php:12
+msgid "STARTEND Date"
+msgstr ""
+
+#: includes/class-gse-field.php:190
+#, php-format
+msgid "%d of %d items shown. Edit field to view all"
+msgstr ""
+
+#: includes/class-gse-field.php:245
+msgid "Other Choice, please specify"
+msgstr ""
+
+#: includes/class-gse-field.php:317
+msgid "Other"
+msgstr ""

@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gsdates\n"
+"POT-Creation-Date: 2021-12-18 16:58+0530\n"
+"PO-Revision-Date: 2021-12-18 16:58+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-gfsd-addon.php:83
+msgid "Start/End Date Settings"
+msgstr ""
+
+#: class-gfsd-addon.php:87 class-gfsd-addon.php:569
+msgid "Field Type"
+msgstr ""
+
+#: class-gfsd-addon.php:91 class-gfsd-addon.php:103
+msgid "Select One"
+msgstr ""
+
+#: class-gfsd-addon.php:92
+msgid "Start Date Only"
+msgstr ""
+
+#: class-gfsd-addon.php:93
+msgid "End Date Only"
+msgstr ""
+
+#: class-gfsd-addon.php:94
+msgid "Both"
+msgstr ""
+
+#: class-gfsd-addon.php:99
+msgid "Ending Type"
+msgstr ""
+
+#: class-gfsd-addon.php:104
+msgid "After x Number of Payments"
+msgstr ""
+
+#: class-gfsd-addon.php:105
+msgid "Term Limit"
+msgstr ""
+
+#: class-gfsd-addon.php:106
+msgid "Select Date(s)"
+msgstr ""
+
+#: class-gfsd-addon.php:461
+msgid " (Starts on "
+msgstr ""
+
+#: class-gfsd-addon.php:573
+msgid "Drop Down"
+msgstr ""
+
+#: class-gfsd-addon.php:574
+msgid "Radio Buttons"
+msgstr ""
+
+#: class-gfsd-addon.php:597
+msgid "GF End Date Settings"
+msgstr ""
+
+#: class-gfsd-addon.php:606
+msgid "Enable Subscription End date"
+msgstr ""
+
+#: class-gfsd-addon.php:620 class-gfsd-addon.php:660
+msgid "Number of Payments"
+msgstr ""
+
+#: class-gfsd-addon.php:627 class-gfsd-addon.php:654
+msgid "Select Duration"
+msgstr ""
+
+#: class-gfsd-addon.php:643
+msgid "End Date Type"
+msgstr ""
+
+#: class-gfsd-addon.php:668 class-gfsd-addon.php:720
+msgid "GravityStripe Date Fields can be selected for the mapping."
+msgstr ""
+
+#: class-gfsd-addon.php:700
+msgid "GF Start Date Settings"
+msgstr ""
+
+#: class-gfsd-addon.php:707
+msgid "Enable Start date"
+msgstr ""
+
+#: class-gfsd-addon.php:718
+msgid "Assign Date Field"
+msgstr ""
+
+#: class-gfsd-addon.php:740
+msgid "Subscription Start Date"
+msgstr ""
+
+#: class-gfsd-addon.php:758
+msgid "Subscription End Date"
+msgstr ""
+
+#: freemius/templates/plugin-info/description.php:30
+msgid "selling_point_"
+msgstr ""
